@@ -4,14 +4,14 @@ I will be a SIR[(Somethings In Residence)](https://tisch.nyu.edu/itp/itp-people/
 
 #Research interest and projects 
 
-- Experimental pedagogy  
+## Experimental pedagogy  
 - Documenting and publishing materials from the classes I taught at ITP, [Performing Participation](https://github.com/tchoi8/PerformingParticipation) annd [To Remember and Forget](https://github.com/tchoi8/RememberAndForget) 
 
-- Participation, community and performance art  
+## Participation, community and performance art  
 - Poetry, code and sign language 
 - [Whisper or Shout](http://bricartsmedia.org/events/contemporary-art/whisper-or-shout-artists-in-the-social-sphere) exhibition
 
-- Critical theory of disability and difference      
+## Critical theory of disability and difference      
 - Uncertainty school at [Mediacity Seoul Biennale](http://mediacityseoul.kr/2016/pre/)
 
 #Office hours 
