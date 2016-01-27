@@ -6,6 +6,8 @@ My current research interest and projects.
 
 ## Experimental pedagogy  
 - Documenting and publishing materials from the classes I taught at ITP, [Performing Participation](https://github.com/tchoi8/PerformingParticipation) annd [To Remember and Forget](https://github.com/tchoi8/RememberAndForget) 
+- Deveoloping new curriculum 
+- Advising students for volunteer teaching
 
 ## Participation, community and performance art  
 - Poetry, code and sign language 
@@ -16,7 +18,7 @@ My current research interest and projects.
 
 #Office hours 
 Every Friday, times may vary. I'll be available for feedback on student projects, research and thesis.
-Current ITP students have the priority, alumni and friends may join on special cases.     
+Current ITP students have the priority, alumni and friends may join on special cases. Location: Adjunct office at ITP.     
 
 - [1/29](http://doodle.com/poll/786mkwhw4qugq68d#table)
 - [2/5](http://doodle.com/poll/ithm33piasc3hn46)  
