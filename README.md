@@ -1,8 +1,8 @@
 # itp sir
 
-I will be a SIR[(Somethings In Residence)](https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs/taeyoon-choi) at NYU ITP this Spring. I will keep record of my research and work during SIR on this repo. 
+I will be a SIR[(Somethings In Residence)](https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs/taeyoon-choi) at NYU ITP this Spring. I will keep record of my research and work during SIR on this repository. 
 
-#Research interest and projects 
+My current research interest and projects.  
 
 ## Experimental pedagogy  
 - Documenting and publishing materials from the classes I taught at ITP, [Performing Participation](https://github.com/tchoi8/PerformingParticipation) annd [To Remember and Forget](https://github.com/tchoi8/RememberAndForget) 
