@@ -18,9 +18,9 @@ My current research interest and projects.
 Every Thursday or Friday, times may vary. Some exceptions be announced in advance. 
 I'll be available for feedback on student projects, research and thesis.
 Current ITP students have the priority, alumni and friends may join on special cases. Location: Adjunct office at ITP.     
-I'm also working in ITP on Mondays, so feel free to contact me to schedule a meeting in another time. 
-
+ 
 - [1/29](http://doodle.com/poll/786mkwhw4qugq68d#table)
 - [2/5](http://doodle.com/poll/ithm33piasc3hn46)  
-- [The rest of February](http://doodle.com/poll/qkwkef4psy544aba)
--
+- [2/11/18/26](http://doodle.com/poll/qkwkef4psy544aba)
+- I'm also working in ITP on Mondays, so feel free to contact me to schedule a meeting in another time. 
+
