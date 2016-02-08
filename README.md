@@ -4,7 +4,7 @@ My current research interest and projects.
 
 ## Experimental pedagogy  
 - Documenting and publishing materials from the classes I taught at ITP, [Performing Participation](https://github.com/tchoi8/PerformingParticipation) annd [To Remember and Forget](https://github.com/tchoi8/RememberAndForget) 
-- Deveoloping new curriculum 
+- Developing new curriculum 
 - Advising students for volunteer teaching
 
 ## Participation, community and performance art  
