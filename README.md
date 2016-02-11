@@ -24,3 +24,8 @@ Current ITP students have the priority, alumni and friends may join on special c
 - [2/11/18/26](http://doodle.com/poll/4y9tvgr77t2gbwr6)
 - I'm also working in ITP on Mondays, so feel free to contact me to schedule a meeting in another time. 
 
+#2/11 
+
+I met with Songee, Gladys, Rebecca and Bret. 
+
+I also had a phone conversation with Beth from Handson.org 
