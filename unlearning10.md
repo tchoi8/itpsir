@@ -16,11 +16,11 @@ When you try to learn something new, often times some kind of conflict arises. L
 #2. Transforming the conflict into potential energy 
 
 
-* Acknowledging the conflict 
-* Identifying the conflict
-* Mapping the conflict 
-* Modeling the conflict
-* Rearranging the conflict
+* Acknowledging the conflict. 
+* Identifying the conflict.
+* Mapping the conflict. 
+* Modeling the conflict.
+* Rearranging the conflict.
 
 Even if the conflict didn’t resolve through this process, you may be able to see your relationship with the conflict has been transformed. This transformation is the beginning to critical engagement with information, knowledge, technology and wisdom. 
 
@@ -31,12 +31,13 @@ Even if the conflict didn’t resolve through this process, you may be able to s
 Our body as a machine for living, an apparatus for doing things, a medium to bring us together.  We can use our bodies to learn something new. 
 
 Leo Tolstoy: “Our body is a machine for living. It is geared towards it; it is its nature. Let go on in it unhindered and let it defend itself; it will be more effective than if you paralyze it by encumbering it with remedies.”
-4. Making new habit 
+
+#4. Making new habit 
 
 Learning is usually made possible through forming new habit. Sometimes habit blocks our ability to learn. It can create the very walls that prevent us from learning. However, making new habit can be a good way of learning new ideas. 
 
-Nicola Masciandaro, Come Cosa Che Cada: Habit And Cataclysm, Or, Exploding Plasticit. 2010 http://thewhim.blogspot.com/2010/11/come-cosa-che-cada-habit-and-cataclysm.html 
-Clare Carlisle, Thinking in Action : On Habit. Taylor and Francis, 2014.
+- Nicola Masciandaro, Come Cosa Che Cada: Habit And Cataclysm, Or, Exploding Plasticit. 2010 http://thewhim.blogspot.com/2010/11/come-cosa-che-cada-habit-and-cataclysm.html 
+- Clare Carlisle, Thinking in Action : On Habit. Taylor and Francis, 2014.
 
 
 #5. Creating a habitat for learning
@@ -81,8 +82,8 @@ Education is one of the most attractive products in a Capitalist society. There�
 
 Sometimes it feels like we are at the long end of the Capitalism. “Someone once said that it is easier to imagine the end of the world than to imagine the end of capitalism”(Jameson). This condition is often understood as Neoliberalism, which is categorized by privatization, deregulation, liberalization of the market.  If it’s difficult to imagine life after capitalism, and if capitalism mutates to new forms at every chance, how to learn about the world outside of capitalism?  It’s worth a shot to look at Post-Capitalism, which finds alternatives in the community economy. Perhaps it’s there where we can imagine a community of learning that’s not dependent on monetary exchange. 
 
-David Harvey, 17 contradictions in Capitalism. Oxford University Press, 2015
-J.K. Gibson-Graham , The End Of Capitalism (As We Knew It): A Feminist Critique of Political Economy. University of Minnesota Press, 2006 
+- David Harvey, 17 contradictions in Capitalism. Oxford University Press, 2015
+- J.K. Gibson-Graham , The End Of Capitalism (As We Knew It): A Feminist Critique of Political Economy. University of Minnesota Press, 2006 
 
 # 10. Sharing the process of unlearning with others
 

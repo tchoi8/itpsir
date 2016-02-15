@@ -28,4 +28,10 @@ Current ITP students have the priority, alumni and friends may join on special c
 
 I met with Songee, Gladys, Rebecca and Bret. 
 
-I also had a phone conversation with Beth from Handson.org 
+I also had a phone conversation with Beth from Handson.org about Singing Coders. 
+
+I joined Nancy Hechinger meeting with ITP Teachers Corps. Looking forward to helping their work with public schools in NY. 
+
+#2/15 
+
+Posting work in progress document on [10 proposals for unlearning](https://github.com/tchoi8/itpsir/blob/master/unlearning10.md).  
