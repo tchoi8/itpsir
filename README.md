@@ -22,6 +22,7 @@ Current ITP students have the priority, alumni and friends may join on special c
 - [1/29](http://doodle.com/poll/786mkwhw4qugq68d#table)
 - [2/5](http://doodle.com/poll/ithm33piasc3hn46)  
 - [2/11/18/26](http://doodle.com/poll/4y9tvgr77t2gbwr6)
+- [March onward](https://docs.google.com/document/d/1P7D5cnreiQxAnHtXfvEpOY7APMAaI10ASCHOrLtt1C0/edit?usp=sharing) 
 - I'm also working in ITP on Mondays, so feel free to contact me to schedule a meeting in another time. 
 
 #2/11 
